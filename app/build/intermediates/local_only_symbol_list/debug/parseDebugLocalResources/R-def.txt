@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color red_primary
+color red_primary_dark
+color white
+drawable ic_share
+drawable loupe
+drawable star
+id app_bar_search
+id ids
+id img
+id imgStar
+id logo
+id rating
+id ratingBar
+id recycle_view
+id share
+id tvName
+layout activity_list
+layout activity_splash
+layout star_edit_item
+layout star_item
+menu menu
+string app_name
+style Theme.StarsGallery

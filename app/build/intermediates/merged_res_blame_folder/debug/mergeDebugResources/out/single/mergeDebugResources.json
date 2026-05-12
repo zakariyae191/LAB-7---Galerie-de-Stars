@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.starsgallery.app-debug-28:/drawable_star.png.flat",
+        "source": "com.example.starsgallery.app-main-30:/drawable/star.png"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-28:/layout_star_item.xml.flat",
+        "source": "com.example.starsgallery.app-main-30:/layout/star_item.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-28:/menu_menu.xml.flat",
+        "source": "com.example.starsgallery.app-main-30:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-28:/drawable_ic_share.xml.flat",
+        "source": "com.example.starsgallery.app-main-30:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-28:/drawable_loupe.xml.flat",
+        "source": "com.example.starsgallery.app-main-30:/drawable/loupe.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-28:/layout_activity_list.xml.flat",
+        "source": "com.example.starsgallery.app-main-30:/layout/activity_list.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-28:/layout_activity_splash.xml.flat",
+        "source": "com.example.starsgallery.app-main-30:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.starsgallery.app-debug-28:/layout_star_edit_item.xml.flat",
+        "source": "com.example.starsgallery.app-main-30:/layout/star_edit_item.xml"
+    }
+]
