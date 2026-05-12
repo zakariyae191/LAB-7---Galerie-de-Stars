@@ -1,4 +1,10 @@
+
+
+
 # StarsGallery
+
+https://github.com/user-attachments/assets/32929f7e-9d2e-46fb-8ef4-e0b7d134d03e
+
 
 StarsGallery est une petite application Android en Java qui affiche une galerie de stars dans une liste. L'application commence par un splash screen animé, puis ouvre une liste avec photos circulaires, notes, recherche, partage et modification de note dans une popup.
 
